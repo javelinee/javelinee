@@ -4,7 +4,7 @@
 🔭 I’m currently work as an internship mobile programmer in Verihubs.
 
 📫 Keep in touch:
- - [Linkedin](https://www.linkedin.com/in/jesselyn-hartandi-8b32851a3/)
+ - ![Linkedin](https://image.flaticon.com/icons/png/512/174/174857.png)[Linkedin](https://www.linkedin.com/in/jesselyn-hartandi-8b32851a3/)
  - [Dribble](https://dribbble.com/javeline)
  - [Instagram](https://www.instagram.com/jesselynhartand/)
  
