@@ -1,5 +1,5 @@
 ### Hi there, I'm Jesselyn 👋
-#### I'm an undergraduate Mobile Application and Technology student in Binus University. Expected to graduate in 2022. Interested in mobile development and mobile design. A motivated self-learner in every way🌸
+#### I'm an undergraduate Mobile Application and Technology student in Binus University. Graduated in 2022. Interested in mobile development and mobile design. A motivated self-learner in every way🌸
 
 🔭 I’m currently work as a junior mobile engineer in Verihubs.
 
