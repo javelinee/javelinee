@@ -1,7 +1,11 @@
 ### Hi there, I'm Jesselyn 👋
-#### I'm an undergraduate Mobile Application and Technology student in Binus University. Graduated in 2022. Interested in mobile development and mobile design. A motivated self-learner in every way🌸
+🎓 Education: Graduated in 2022 with a degree in Mobile Application and Technology from Binus University.
 
-🔭 I’m currently work as a junior mobile engineer in Verihubs.
+🌱 Interests: Passionate about mobile development and mobile design, with a drive for continuous learning and improvement.
+
+💻 Experience: Currently working as a Full-Stack Engineer, blending expertise in both mobile and backend development.
+
+🌸 Personal: A motivated self-learner who thrives on solving challenges and exploring innovative solutions.
 
 📫 Keep in touch w/ me!
   - [Linkedin](https://www.linkedin.com/in/jesselyn-hartandi-8b32851a3/)
