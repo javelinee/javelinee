@@ -1,11 +1,27 @@
-### Hi there, I'm Jesselyn 👋
-🎓 Education: Graduated in 2022 with a degree in Mobile Application and Technology from Binus University.
+# 👋 Hi, I'm Jesselyn  
 
-🌱 Interests: Passionate about mobile development and mobile design, with a drive for continuous learning and improvement.
+I’m a **Flutter Developer** with a solid foundation in **full-stack development** — from building intuitive mobile UIs to designing robust backend systems. I’m passionate about crafting seamless mobile experiences and constantly exploring new ways to improve my skills.  
 
-💻 Experience: Currently working as a Full-Stack Engineer, blending expertise in both mobile and backend development.
+---
 
-🌸 Personal: A motivated self-learner who thrives on solving challenges and exploring innovative solutions.
+## 💼 Experience  
+- **Flutter Developer** — Building high-quality mobile applications with clean architecture and great user experiences.
+- **Full-Stack Engineer** — Hands-on experience in backend and frontend development, delivering complete features from concept to deployment.  
+- **Mobile Engineer** — Developing and maintaining mobile SDKs to empower other developers in integrating features seamlessly.  
+
+
+---
+
+## 🌱 Interests  
+- Mobile app development & UI/UX design  
+- Continuous learning and personal growth  
+- Solving challenges with creative, impactful solutions  
+
+---
+
+## 🌸 About Me  
+I’m a motivated self-learner who thrives in solving problems, turning ideas into reality,  
+and building products that people love to use.  
 
 📫 Keep in touch w/ me!
   - [Linkedin](https://www.linkedin.com/in/jesselyn-hartandi-8b32851a3/)
