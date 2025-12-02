@@ -17,12 +17,6 @@ I’m a **Flutter Developer** with a solid foundation in **full-stack developmen
 - Continuous learning and personal growth  
 - Solving challenges with creative, impactful solutions  
 
----
-
-## 🌸 About Me  
-I’m a motivated self-learner who thrives in solving problems, turning ideas into reality,  
-and building products that people love to use.  
-
 📫 Keep in touch w/ me!
   - [Linkedin](https://www.linkedin.com/in/jesselyn-hartandi-8b32851a3/)
   - [Dribbble](https://dribbble.com/javeline)
